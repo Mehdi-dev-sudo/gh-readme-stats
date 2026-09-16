@@ -10,15 +10,15 @@ Dynamic GitHub stats cards for your profile README. **Fork once, it just works.*
 
 Your SVGs will be at:
 ```
-https://Mehdi-dev-sudo.github.io/GhReadmeStats/svgs/stats-dark.svg
+https://Mehdi-dev-sudo.github.io/gh-readme-stats/svgs/stats-dark.svg
 ```
 
 ### Profile README
 
 ```markdown
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Mehdi-dev-sudo.github.io/GhReadmeStats/svgs/stats-dark.svg">
-  <img src="https://Mehdi-dev-sudo.github.io/GhReadmeStats/svgs/stats-default.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://Mehdi-dev-sudo.github.io/gh-readme-stats/svgs/stats-dark.svg">
+  <img src="https://Mehdi-dev-sudo.github.io/gh-readme-stats/svgs/stats-default.svg">
 </picture>
 ```
 

@@ -10,7 +10,7 @@ import path from 'path';
 const username = process.env.USERNAME || process.env.GITHUB_REPOSITORY_OWNER;
 const token = process.env.GITHUB_TOKEN;
 const repoOwner = process.env.GITHUB_REPOSITORY_OWNER || username;
-const repoName = process.env.GITHUB_REPOSITORY_NAME || 'GhReadmeStats';
+const repoName = process.env.GITHUB_REPOSITORY_NAME || (process.env.GITHUB_REPOSITORY ? process.env.GITHUB_REPOSITORY.split('/')[1] : 'GhReadmeStats');
 
 if (!username) {
   console.error('USERNAME environment variable is required');
