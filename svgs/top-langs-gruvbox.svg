@@ -8,7 +8,7 @@
   aria-labelledby="descId"
 >
   <title id="titleId">Most Used Languages</title>
-  <desc id="descId">JavaScript: 34.8%, TypeScript: 24.6%, CSS: 23.5%, HTML: 9.3%, Shell: 7.6%</desc>
+  <desc id="descId">JavaScript: 34.9%, TypeScript: 24.6%, CSS: 23.5%, HTML: 9.3%, Shell: 7.6%</desc>
   <style>
     
     .header {
