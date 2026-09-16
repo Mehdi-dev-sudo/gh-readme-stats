@@ -2,6 +2,10 @@
 
 Dynamic GitHub stats cards for your profile README. **Fork once, it just works.**
 
+## Credits
+
+This project was created and is maintained by **[Karan Safaie Qadi](https://github.com/Karan-Safaie-Qadi)**. This repository is a fork with only tiny adjustments by [Mehdi Khorshidifar](https://github.com/Mehdi-dev-sudo) — nearly all the work belongs to the original author.
+
 ## Quick Start (30 seconds)
 
 1. **Fork** this repository
@@ -44,4 +48,4 @@ USERNAME=your_name GITHUB_TOKEN=ghp_xxx node scripts/generate-svgs.mjs ./svgs
 
 ## License
 
-MIT
+MIT — original project by [Karan Safaie Qadi](https://github.com/Karan-Safaie-Qadi)
